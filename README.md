@@ -1,7 +1,7 @@
 <div align="center">
   <img height="150" src="https://o.remove.bg/downloads/c3241717-becb-4a14-8cb5-6df7c75b4f53/Pokemon_Ball-removebg-preview.png"  />
 </div>
-
+<hr>
 ###
 
 <div align="center">
