@@ -81,6 +81,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shakti-kc/shakti-kc/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/shakti-kc/shakti-kc/blob/output/github-contribution-grid-snake.gif)
 
 ###
