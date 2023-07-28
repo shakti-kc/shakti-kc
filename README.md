@@ -81,6 +81,6 @@
 
 ###
 
-![snake gif](https://github.com/shakti-kc/shakti-kc/blob/output/github-contribution-grid-snake.gif)
+https://github.com/shakti-kc/shakti-kc/blob/output/github-contribution-grid-snake.gif
 
 ###
