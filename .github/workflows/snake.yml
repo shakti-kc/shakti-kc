@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: generate snake.svg
+      - name: generate ${{ github.shakti-kc }}
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: shakti-kc
