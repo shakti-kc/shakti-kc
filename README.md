@@ -27,6 +27,8 @@
 
 <p align="left">Hello, I am Shakti K.C., but you can call me Sauti. I am passionate about Machine Learning and cybersecurity. I love enjoying nature and exploring the vastness of space.</p>
 
+<hr>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -65,9 +67,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
 
+<hr>
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+<hr>
 
 ###
 
