@@ -24,7 +24,7 @@
 
 ###
 
-<p align="center">Hello, I am Shakti K.C., but you can call me Sauti. I am passionate about Machine Learning and cybersecurity. I love enjoying nature and exploring the vastness of space.</p>
+<p align="left">Hello, I am Shakti K.C., but you can call me Sauti. I am passionate about Machine Learning and cybersecurity. I love enjoying nature and exploring the vastness of space.</p>
 
 <hr>
 
@@ -79,9 +79,9 @@
 ###
 
 ###
-<div align="center>
-  <img src="https://raw.githubusercontent.com/shakti-kc/shakti-kc/output/snake.svg" alt="Snake animation" />
-</div>
+ 
+  <img align="center" src="https://raw.githubusercontent.com/shakti-kc/shakti-kc/output/snake.svg" alt="Snake animation" />
+ 
 
 
 ###
