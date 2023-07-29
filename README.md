@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Hello, I am Shakti K.C., but you can call me Sauti. I am passionate about Machine Learning and cybersecurity. I love enjoying nature and exploring the vastness of space.</p>
+<p align="center">Hello, I am Shakti K.C., but you can call me Sauti. I am passionate about Machine Learning and cybersecurity. I love enjoying nature and exploring the vastness of space.</p>
 
 <hr>
 
@@ -34,7 +34,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -78,18 +78,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakti-kc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
-
-###
-
-###
-<img src="https://raw.githubusercontent.com/shakti-kc/shakti-kc/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shakti-kc&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+
+###
+
+###
+<div align="center>
+  <img src="https://raw.githubusercontent.com/shakti-kc/shakti-kc/output/snake.svg" alt="Snake animation" />
+</div>
+
+
+###
+
+
 
 ###
 
