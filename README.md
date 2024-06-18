@@ -7,7 +7,7 @@
 
  
 <div align="center">
-  <a href="https://www.facebook.com/shaktikc404" target="_blank">
+  <a href="https://www.facebook.com/shaktikc301" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
   <a href="https://www.linkedin.com/in/shakti-kc/" target="_blank">
@@ -24,7 +24,9 @@
 
 ###
 
-<p align="left">Hello, I am Shakti K.C., but you can call me Sauti. I am passionate about Machine Learning and cybersecurity. I love enjoying nature and exploring the vastness of space.</p>
+<p align="left">Hi, I'm Shakti K.C., a web developer from Nepal with a love for technology and the beauty of space. I have four years of experience in web development, working with HTML, CSS, JavaScript, React, Next.js, Express.js, TypeScript, and WordPress. My passion for learning and innovation drives me to create exciting and impactful projects.
+</p>
+<p align="left">In addition to web development, I also have a keen interest in Artificial Intelligence and 2D animations. I believe in using my knowledge to help others and make a positive difference in society. Furthermore, I love travelling.</p>
 
 <hr>
 
