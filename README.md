@@ -86,3 +86,9 @@
 <img src="https://raw.githubusercontent.com/shakti-kc/shakti-kc/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h3 align="left">✍️   Random Dev Quote :</h3>
+
+###
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
